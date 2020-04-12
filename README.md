@@ -1,2 +1,2 @@
-# galina-eremenko.github.io
-My  projects 
+# Галина Еременко
+Мои работы
