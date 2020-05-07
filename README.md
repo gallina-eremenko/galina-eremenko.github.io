@@ -6,5 +6,5 @@
 
 [electrolog](gallina-eremenko.github.io/electrolog/ "Моя готовая работа")
 
-[gipsolit](gallina-eremenko.github.io/gipsolit/css "Моя готовая работа")
+[gipsolit/css](gallina-eremenko.github.io/gipsolit/css "Моя готовая работа")
 
